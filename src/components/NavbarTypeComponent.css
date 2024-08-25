@@ -1,0 +1,33 @@
+.full-bar{
+    background-color: #9db659;
+    align-items: center;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+.v-line{
+    border-right: thick solid #ffffff;
+    border-right-width: 2px;
+    height: 100%;
+}
+.text-type{
+    margin-left: 20%;
+}
+.text-hover:hover{
+    background-color: #4e727c;
+    color: #ffffff;
+}
+.text-hover:active{
+    background-color: #4e727c;
+    color: #ffffff;
+}
+.scroll-container2 {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+.scroll-container2::-webkit-scrollbar {
+    display: none; /* Oculta la barra de desplazamiento en navegadores WebKit */
+}

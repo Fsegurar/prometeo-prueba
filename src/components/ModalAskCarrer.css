@@ -1,0 +1,10 @@
+.modal-body-blur .ant-modal-mask {
+    backdrop-filter: blur(5px) !important;
+}
+
+.modal-body-blur .ant-modal-content {
+    background: rgba(255, 255, 255, 0.9) !important; 
+}
+.select-box .ant-select-selector {
+    background-color: rgb(229, 231, 235) !important;
+}
